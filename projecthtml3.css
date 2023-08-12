@@ -1,0 +1,75 @@
+body {
+    background-color: oklch(94.7% 0.007 107.1);
+}
+
+header {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: large;
+}
+
+.card-main{
+    /* border: #111 solid 2px; */
+    display: flex;
+    gap: 2rem;
+    margin: 20px 50px;
+}
+
+@media (max-width: 750px) {
+    .card-main {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .card-column-2 img {
+        height: 100%;
+        width: 100%;
+    }
+}
+
+.card-number {
+    border: oklch(30.08% 0.091 349.1) solid 1px;
+    background-color: oklch(89.4% 0.051 107.1);
+    border-radius: 16px;
+    box-shadow: 0 30px 30px -35px;
+    flex-basis: 100%;
+    cursor: pointer;
+}
+
+.card-number:hover {
+    background-color: oklch(82.5% 0.051 107.1);
+    transition: 0.5s;
+}
+
+/* anything that is the child of the .card-number */
+.card-number > * {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+
+.card-column-1 {
+    /* border: blue solid 2px; */
+    height: 90px;
+    margin: 0 10px 0;
+}
+
+.card-column-2 {
+    /* border: green solid 2px; */
+    height: 100px;
+    margin: 0 0 5px 0;
+}
+
+.card-column-2 img {
+    height: 100%;
+    width: 50%;
+}
+
+.card-column-2 img:hover {
+    transform: translate(0, -10px);
+    transition: 0.3s;
+}
+
+.card-column-3 {
+    /* border: pink solid 2px; */
+    margin: 5px 10px 5px;
+}

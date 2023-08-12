@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 1052.4 744.09" version="1.0">
+  <defs id="defs4">
+    <filter id="filter3398">
+      <feGaussianBlur id="feGaussianBlur3400" stdDeviation="1.0952753"/>
+    </filter>
+    <linearGradient id="linearGradient10108" y2="472.5" gradientUnits="userSpaceOnUse" x2="455.92" gradientTransform="matrix(1.1758 0 0 1.1758 12.811 -70.797)" y1="630.37" x1="-.089598">
+      <stop id="stop3468" stop-color="#f1f1f1" offset="0"/>
+      <stop id="stop3474" stop-color="#fff" offset=".51447"/>
+      <stop id="stop3470" stop-color="#f1f1f1" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient10110" y2="251.43" gradientUnits="userSpaceOnUse" x2="800.59" gradientTransform="matrix(1.1758 0 0 1.1758 -88.549 -44.051)" y1="251.43" x1="224.16">
+      <stop id="stop3542" stop-color="#d9d9d9" offset="0"/>
+      <stop id="stop3548" stop-color="#ebebeb" offset=".5"/>
+      <stop id="stop3544" stop-color="#d9d9d9" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient10112" y2="346.01" gradientUnits="userSpaceOnUse" x2="514.98" gradientTransform="matrix(1.3209 0 0 1.3209 34.104 -88.224)" y1="346.01" x1="214.38">
+      <stop id="stop3478" stop-color="#fff1d6" offset="0"/>
+      <stop id="stop3484" stop-color="#fff" offset=".5"/>
+      <stop id="stop3480" stop-color="#fff1d6" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient10114" y2="920.6" gradientUnits="userSpaceOnUse" x2="545.73" gradientTransform="matrix(1.1758 0 0 1.1758 -229.72 -244.88)" y1="649.83" x1="532.87">
+      <stop id="stop3306" stop-color="#fff8b3" offset="0"/>
+      <stop id="stop3312" stop-color="#fffbc9" offset=".23559"/>
+      <stop id="stop3308" stop-color="#fff8b3" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient10116" y2="661.25" gradientUnits="userSpaceOnUse" x2="718.67" y1="659.35" x1="565.63">
+      <stop id="stop3334" stop-color="#efefef" offset="0"/>
+      <stop id="stop3340" stop-color="#fff" offset=".49231"/>
+      <stop id="stop3336" stop-color="#efefef" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1">
+    <g id="g10092" transform="matrix(1.0679 0 0 1.0679 -9.807 -11.493)">
+      <rect id="rect3197" opacity=".99" fill-rule="evenodd" transform="rotate(-28.959)" height="379.6" width="681.94" stroke="#c1c1c1" y="371.62" x="-75.262" stroke-width="5.8788" fill="url(#linearGradient10108)"/>
+      <rect id="rect2423" opacity=".99" fill-rule="evenodd" transform="rotate(3.2462)" height="291.34" width="670.95" stroke="#b4b4b4" y="105.9" x="178.41" stroke-width="6.7957" fill="url(#linearGradient10110)"/>
+      <rect id="rect3195" opacity=".99" fill-rule="evenodd" transform="rotate(3.1401)" height="301.74" width="545.46" stroke="#ffe4a6" y="217.94" x="252.37" stroke-width="6.7699" fill="url(#linearGradient10112)"/>
+      <rect id="rect3199" opacity=".99" fill-rule="evenodd" transform="rotate(-10.45)" height="272.48" width="712.55" stroke="#ffcf6e" y="353.62" x="45.673" stroke-width="5.5078" fill="url(#linearGradient10114)"/>
+      <path id="path3205" d="m154.28 417.4c-5.04-16.13-14-55.92-14.23-59.89 7.02-3.28 26.21-10.49 30.01 17.13 1.46 10.63-13.72 13.92-22.7 13.65" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3221" d="m182.12 409.82c-0.06-1.67 0.23-11.94 0.2-16.47-0.03-4.76-0.06-9.52-0.09-14.28-0.02-3.06-0.21-8.98-0.06-10.08 0.4-2.9 3.66 6.58 5.1 10.05 2.19 5.3 3.95 10.04 5.97 14.24 2.07 4.32 3.67 7.29 5.93 12.48" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3223" d="m181.75 394.03c3.45-0.76 9.51-2.08 10.92-2.59" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3225" d="m217.21 362.56c-2.56-0.4-8.16-0.42-11.96 2.62-5.61 4.5-4.55 20.29 9.75 15.02 9.49-3.5 16.19 8.78 14.43 14.08-2.1 6.3-18.85 8.75-21.84 7.18" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3227" d="m241.55 354.53c2.06 8.07 7.49 32.24 8.93 39.68" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3229" d="m227.45 358.39c0.56-0.13 26.79-6.46 27.6-6.56" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3231" d="m270.65 328.28c1.43 5.49 3.98 12.8 5.68 19.6 1.92 7.67 7.85 33.39 9.29 37.46 12.6-1.57 18.52-6.8 20.53-12.16 3.43-9.11 0.08-25.35-3.5-31.09-3.59-5.74-7.91-14.18-18.81-15.29-4.2-0.43-8.5 0.59-13.19 1.48z" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3233" d="m310.35 339.29c0.43 3.37 4.8 40.03 22.5 35.18 15.27-4.17 2.89-37.07 0.96-40.98" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <path id="path3235" d="m344.55 345.93c4.97-1.13 19.76-4.69 25.23-6.03 1.32-0.32-3.27-13.18-9.95-12.83-18.96 1.02-15.05 18.54-13.74 25.37 3.15 16.39 22.63 21.1 28.23 4.42" stroke="#000" stroke-width="2.8218" fill="none"/>
+      <rect id="rect3314" opacity=".99" fill-rule="evenodd" transform="matrix(1.1562 -.21344 .21496 1.1559 -270.32 -199.16)" height="87.344" filter="url(#filter3398)" width="211.62" stroke="#ffe1a5" y="616.65" x="538.01" stroke-width="3.4082" fill="url(#linearGradient10116)"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>bills</dc:title>
+        <dc:date>2012-01-02T13:31:43</dc:date>
+        <dc:description>Bills piling up.</dc:description>
+        <dc:source>http://openclipart.org/detail/166771/bills-by-artmaker</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Artmaker</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>behind</rdf:li>
+            <rdf:li>bills</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>late</rdf:li>
+            <rdf:li>money</rdf:li>
+            <rdf:li>notice</rdf:li>
+            <rdf:li>past due</rdf:li>
+            <rdf:li>stress</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
